@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  position: relative;
+  background-color: #dfe6e9;
+}
+.main-image {
+  position: absolute;
+  height: 400px;
+
+  width: 550px;
+  top: 35%;
+  left: 34%;
+  box-shadow: 10px 10px 10px gray;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  position: absolute;
+  font-size: 2rem;
+}
